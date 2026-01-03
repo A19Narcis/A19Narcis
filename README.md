@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hola, soy Narcís
 
-<!--
-**A19Narcis/A19Narcis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Me gusta desarrollar en Android enfocado en **Kotlin** y **Jetpack Compose**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+- Kotlin | Jetpack Compose
+- Android (MVVM, Firebase, Hilt, Coroutines, Room, DataStore,...)
+- Git & GitHub
+
+---
+
+## 🎴 Proyecto destacado
+
+### 🐉 MountVault
+Juego móvil donde puedes abrir sobres de cartas y coleccionar monturas de World of Warcraft.
+
+🔗 [Ver repositorio](https://github.com/A19Narcis/MountVault)
+
+## 📈 Actualmente
+- Aprendiendo a hacer todo tipo de aplicaciones usando **Kotlin** y **Jetpack Compose**
