@@ -18,5 +18,7 @@ Juego móvil donde puedes abrir sobres de cartas y coleccionar monturas de World
 
 🔗 [Ver repositorio](https://github.com/A19Narcis/MountVault)
 
+---
+
 ## 📈 Actualmente
 - Aprendiendo a hacer todo tipo de aplicaciones usando **Kotlin** y **Jetpack Compose**
